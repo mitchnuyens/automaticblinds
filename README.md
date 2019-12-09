@@ -1,0 +1,2 @@
+# automaticblinds
+An "automatic" blind
